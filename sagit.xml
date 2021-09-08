@@ -3,7 +3,7 @@
 -->
 <manifest>
     <!-- Custom Clang -->
-    <project path="prebuilts/clang/host/linux-x86/clang-r383902" name="UbuntuTouch-sagit/prebuilts_clang_host_linux-x86_clang-r383902" revision="10" remote="github" />
+    <project path="prebuilts/clang/host/linux-x86/clang-r428724" name="UbuntuTouch-sagit/prebuilts_clang_host_linux-x86_clang-r428724" revision="11" />
 
     <!-- Remotes -->
     <remote name="ubports-sagit" fetch="https://github.com/UbuntuTouch-sagit" revision="halium-9.0" />
